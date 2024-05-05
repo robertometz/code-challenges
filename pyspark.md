@@ -8,16 +8,16 @@ Use the "NYC Taxi Trip Duration" dataset from Kaggle https://www.kaggle.com/c/ny
 
 ## Requirements
 
-1. **Data Ingestion:**
+1. **Data Ingestion**
 - Read the dataset (train.csv) into a PySpark DataFrame.
 - Handle any necessary data cleaning or preprocessing steps.
 - Convert relevant columns to appropriate data types (e.g., datetime).
 
-2. **Data Exploration:**
+2. **Data Exploration**
 - Compute summary statistics for relevant columns (e.g., trip duration, distance).
 - Visualize key insights using PySpark's built-in plotting capabilities or other plotting libraries like Matplotlib or Seaborn.
 
-3. (Optional) **Feature Engineering:**
+3. **Feature Engineering** (Optional)
 - Create additional features that may be useful for analysis (e.g., time of day, day of week).
 - Consider aggregating data at different levels (e.g., hourly, daily) to extract meaningful features.
 
