@@ -6,7 +6,7 @@ Create a simple Android app that fetches data from a public API and displays it 
 ## Requirements
 1. Use the JSONPlaceholder API: https://jsonplaceholder.typicode.com/
 2. Fetch data from the API using Retrofit or any other HTTP client library
-3. Display the fetched data in a RecyclerView
-4. Each item in the list should display at least two pieces of information from the API response (e.g., title and body for posts)
-5. When an item in the list is clicked, display a detail view with more information about the selected item
-6. Perform network operations asynchronously to avoid blocking the main UI thread and maintain a smooth user experience
+3. Perform network operations asynchronously to avoid blocking the main UI thread and maintain a smooth user experience
+4. Display the fetched data in a RecyclerView
+5. Each item in the list should display at least two pieces of information from the API response (e.g., title and body for posts)
+6. (Optional) When an item in the list is clicked, display a detail view with more information about the selected item
