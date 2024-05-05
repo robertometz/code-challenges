@@ -1,7 +1,7 @@
 # iOS
 
 ## Challenge
-Create a simple iOS app that fetches data from a public API and displays it in a list.
+Create a simple iOS app with Swift that fetches data from a public API and displays it in a list.
 
 ## Requirements
 1. Use the JSONPlaceholder API: https://jsonplaceholder.typicode.com/
