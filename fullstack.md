@@ -33,7 +33,7 @@ Develop a simple full-stack web application for displaying a library's book inve
 
 5. **User Experience:**
 - Ensure a seamless user experience by displaying book details neatly and clearly in the frontend.
-- Implement basic error handling for failed API requests.
+- (Optional) Implement basic error handling for failed API requests.
 
 ___
 
