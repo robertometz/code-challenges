@@ -9,7 +9,7 @@ Given an imperative Java code performing simple math operations, refactor it usi
 ## Source code
 
 ```
-public class ComplexCalculus {
+public class SumAndAverage {
     public static void main(String[] args) {
         int[][] matrix = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
         int sum = 0;
