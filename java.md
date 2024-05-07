@@ -1,7 +1,7 @@
 # Java
 
 ## Challenge
-Refactor Java code using functional programming for complex calculus operations.
+Refactor Java code using functional programming.
 
 ## Description
 Given an imperative Java code performing simple math operations, refactor it using functional programming techniques like streams, lambda expressions, and method references. 
