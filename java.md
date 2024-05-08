@@ -3,10 +3,10 @@
 ## Challenge
 Refactor Java code using functional programming.
 
-## Description
+### Description
 Given an imperative Java code performing simple math operations, refactor it using functional programming techniques like streams, lambda expressions, and method references. 
 
-## Source code
+### Source code
 
 ```
 public class SumAndAverage {
@@ -24,3 +24,8 @@ public class SumAndAverage {
     }
 }
 ```
+
+## Technical Questions
+1. What do @Component, @Service, @Repository, and @Controller annotations represent in Spring Boot?
+2. How does Spring Boot handle dependency injection, and what are its methods?
+4. What are Spring Boot starters, and can you name some common examples?
