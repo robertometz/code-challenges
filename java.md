@@ -26,6 +26,8 @@ public class SumAndAverage {
 ```
 
 ## Technical Questions
-1. What do @Component, @Service, @Repository, and @Controller annotations represent in Spring Boot?
-2. How does Spring Boot handle dependency injection, and what are its methods?
-4. What are Spring Boot starters, and can you name some common examples?
+1. Explain the concept of method overloading and method overriding in Java. Provide an example of each.
+2. What is a functional interface in Java, and why is it important?
+3. What do @Component, @Service, @Repository, and @Controller annotations represent in Spring Boot?
+4. How does Spring Boot handle dependency injection, and what are its methods?
+5. What are Spring Boot starters, and can you name some common examples?
