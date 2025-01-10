@@ -98,9 +98,3 @@ let cities = [
     { name: 'Houston', population: 2099451, rank: 4 }
 ]
 ```
-
----
-
-**Deliverables:**
-
-Write the function and provide test cases to demonstrate its correctness.
