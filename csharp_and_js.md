@@ -1,4 +1,4 @@
-# Code Challenges
+# Code Challenge
 
 ### C#: Find the Longest Word in a Sentence
 
