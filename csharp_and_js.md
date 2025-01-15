@@ -1,6 +1,6 @@
 # Code Challenge
 
-### C#: Find the Longest Word in a Sentence
+### C# Find the Longest Word in a Sentence
 
 **Challenge Description:**
 
@@ -62,7 +62,7 @@ programming
 
 ```
 
-### JS: Rank Cities by Population
+### JS Rank Cities by Population
 
 **Challenge Description:**
 
