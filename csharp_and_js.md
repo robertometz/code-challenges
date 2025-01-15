@@ -4,7 +4,7 @@
 
 **Challenge Description:**
 
-Write a C# program that takes a sentence as input and determines the longest word in it. If there are multiple words with the same maximum length, return the first one.
+Write a C# program that takes a sentence as input and determines the longest word in it. If there are multiple words with the same maximum length, return the last one.
 
 ---
 
